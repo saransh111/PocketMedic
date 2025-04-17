@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Get started
 
 ### 🎥 Demo Video
-[Click here to watch the demo](./demovideo/WhatsApp%20Video%202025-04-15%20at%2010.51.10_41f1edad.mp4)
+[[Click here to watch the demo](./demovideo/WhatsApp%20Video%202025-04-15%20at%2010.51.10_41f1edad.mp4)](https://github.com/user-attachments/assets/02fbee5c-55eb-4258-8550-7faf1e4a335a)
 
 1. Install dependencies
 
